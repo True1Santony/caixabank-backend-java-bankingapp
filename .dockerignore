@@ -1,0 +1,26 @@
+# Ignorar los directorios y archivos generados automáticamente
+target/
+out/
+
+# Ignorar archivos de configuración específicos de IntelliJ
+.idea/
+
+# Ignorar archivos de Git
+.git/
+.gitignore
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales del sistema operativo (Windows)
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+
+# Ignorar archivos de dependencias locales de Maven
+*.iml
+
+# Ignorar archivos de caché del sistema
+*.bak
+*.tmp
